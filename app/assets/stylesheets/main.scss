@@ -159,9 +159,18 @@
   font-size: 16px;
 }
 
+.sign-in-button {
+  height: 2.3rem;
+}
+
+.header-brand-img {
+  height: 72px;
+}
+
 .table-responsive tbody td:first-child > *:first-child {
   max-height: 3em;
   overflow: hidden;
   max-width: 200px;
   display: flex;
 }
+

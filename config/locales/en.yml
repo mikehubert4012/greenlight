@@ -311,8 +311,8 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
+    about: "AD-HOC Web conference service for École nationale de police du Québec.<br>Registration on invite only.<br><br>If you need support, please contact us at 819-293-8631 ext.: 6406"
+    welcome: Welcome to enligne.enpq.qc.ca
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.

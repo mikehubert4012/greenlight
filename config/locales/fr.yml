@@ -226,7 +226,7 @@ fr:
   docs: Documentation
   email: Email
   email_sent: "Votre demande de %{email_type} a bien été envoyée ! (Vérifiez votre dossier anti-spam si vous ne le trouvez pas)"
-  enter_your_name: Entrez votre nom !
+  enter_your_name: Saisir votre nom, prénom !
   errors:
     bigbluebutton:
       help: "Veuillez vous assurer que les mesures appropriées ont été prises.<a href=\"%{doc_link}\">En savoir plus</a>"
@@ -310,8 +310,8 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "%{href} est une interface simple pour votre serveur open-source de Web conférence BigBlueButton. Vous pouvez créer vos propres salles pour héberger des sessions ou rejoindre d'autres utilisateurs via un lien court et pratique. "
-    welcome: Bienvenue sur BigBlueButton.
+    about: "Service de conférence Web de l'École nationale de police du Québec.<br>Inscription sur invitation seulement.<br><br>Si vous avez des problèmes d'utilisation, veuillez nous joindre au 819 293-8631, poste 6406"
+    welcome: Bienvenue sur enligne.enpq.qc.ca
     video: Regardez notre tutoriel sur l'utilisation de Greenlight
     upgrade: Montrez-moi comment passer à la version 2.0 !
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
